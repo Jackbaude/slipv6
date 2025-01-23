@@ -1,0 +1,34 @@
+Continent,PoP ID,PoP Location,# of Users served,# of Regions served
+North America,sttlwax1,Seattle,315157,3
+North America,chcoilx1,Chicago,239309,4
+North America,dllstxx1,Dallas,229947,2
+North America,nwyynyx1,New York City,218637,5
+North America,atlagax1,Atlanta,173969,6
+North America,qrtomex1,Queretaro,154445,5
+North America,mmmiflx1,Miami,120596,17
+North America,lsancax1,Los Angeles,116106,2
+North America,mplsmnx1,Minneapolis,110460,4
+North America,dnvrcox1,Denver,87041,1
+North America,tmpeazx1,Tempe,77198,2
+North America,ashnvax2,Ashburn,56102,1
+North America,sltyutx1,Salt Lake City,46588,1
+North America,snjecax1,San Jose,4165,1
+South America,splobra1,Sao Paulo,191539,5
+South America,sntochl1,Santiago,83864,3
+South America,bgtacol1,Bogota,55192,6
+South America,frtabra1,Fortaleza,44642,1
+South America,bnssarg1,Buenos Aires,26129,4
+South America,limaper1,Lima,22321,5
+Europe,frntdeu1,Frankfurt,166848,36
+Europe,lndngbr1,London,119686,8
+Europe,mdrdesp1,Madrid,77908,6
+Europe,sfiabgr1,Sofia,50930,15
+Oceania,sydyaus1,Sydney,179710,5
+Oceania,acklnzl1,Auckland,58982,8
+Oceania,prthaus1,Perth,28419,1
+Asia,mnlaphl1,Manila,73933,2
+Asia,sngesgp1,Singapore,14585,3
+Asia,tkyojpn1,Tokyo,9728,5
+Asia,dohaqat1,Doha,2840,4
+Asia,jtnaidn1a,Jakarta,2,1
+Africa,lgosnga1,Lagos,39881,9
