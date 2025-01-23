@@ -1,0 +1,64 @@
+# Nmap 7.92 scan initiated Wed Jan 22 21:50:35 2025 as: nmap -6 -iL addresses.txt -oN starlink_scan_results.txt
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:1316:fc00::1)
+Host is up (0.057s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:1334:c00::1)
+Host is up (0.054s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:1360:f800::1)
+Host is up (0.056s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:1374:7a00::1)
+Host is up (0.058s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:1389:ae00::1)
+Host is up (0.060s latency).
+Not shown: 991 closed tcp ports (conn-refused)
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+25/tcp   filtered smtp
+80/tcp   open     http
+81/tcp   open     hosts2-ns
+135/tcp  filtered msrpc
+139/tcp  filtered netbios-ssn
+443/tcp  open     https
+445/tcp  filtered microsoft-ds
+8080/tcp open     http-proxy
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:13c7:7e00::1)
+Host is up (0.046s latency).
+Not shown: 993 closed tcp ports (conn-refused)
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+53/tcp  open     domain
+80/tcp  open     http
+135/tcp filtered msrpc
+139/tcp filtered netbios-ssn
+443/tcp open     https
+445/tcp filtered microsoft-ds
+
+Nmap scan report for customer.mplsmnx1.pop.starlinkisp.net (2605:59ca:13d7:8100::1)
+Host is up (0.051s latency).
+Not shown: 993 filtered tcp ports (no-response)
+PORT     STATE  SERVICE
+53/tcp   open   domain
+80/tcp   open   http
+443/tcp  open   https
+1723/tcp closed pptp
+5061/tcp closed sip-tls
+8000/tcp open   http-alt
+8001/tcp open   vcom-tunnel
+
+# Nmap done at Wed Jan 22 23:40:36 2025 -- 131072 IP addresses (7 hosts up) scanned in 6601.27 seconds
