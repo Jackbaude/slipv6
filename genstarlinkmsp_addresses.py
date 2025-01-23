@@ -1,4 +1,6 @@
 from ipaddress import IPv6Network
+import numpy as np
+import seaborn as sn
 
 def generate_starlink_addresses(prefixes, subprefix_length=56, output_file="addresses.txt"):
     """
